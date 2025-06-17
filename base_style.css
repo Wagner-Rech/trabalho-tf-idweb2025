@@ -1,0 +1,15 @@
+#geral .secao_borda {
+    padding: 10px;
+}
+
+#geral .outline {
+    padding: 4px;
+}
+
+#geral .paleta1 {
+    background-color: #ffcc66;
+}
+
+#geral .back_padrao {
+    background-color: white;
+}
